@@ -1,4 +1,4 @@
-Forked and updated for Gnome Shell 45 from  dsboger-zz's awesome original version :
+Forked and updated for Gnome Shell 45+ from  dsboger-zz's awesome original version :
 https://github.com/dsboger/gnome-shell-extension-super-tab-launcher 
 
 # GNOME Shell Extension: Alt+Tab Launcher

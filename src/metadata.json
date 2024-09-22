@@ -4,7 +4,7 @@
   "uuid": "alt-launcher@oxayotl.github.io",
   "url": "https://github.com/oxayotl/gnome-shell-extension-alt-tab-launcher",
   "shell-version": [
-    "45", "46"
+    "45", "46", "47"
   ],
-  "version": 3
+  "version": 4
 }
